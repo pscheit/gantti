@@ -29,16 +29,17 @@ $data[] = array(
 );
 
 $data[] = array(
-  'label' => 'Rv Musik',
-  'start' => '2013-01-01', 
-  'end'   => '2013-01-31',
-  'class' => 'important'
-);
-
-$data[] = array(
   'label' => 'Rv Fahrzeuge',
   'start' => '2012-12-15', 
   'end'   => '2013-02-01'
+);
+
+
+$data[] = array(
+  'label' => 'Rv Musik (tbc)',
+  'start' => '2013-02-01', 
+  'end'   => '2013-02-31',
+  'class' => 'normal'
 );
 
 
